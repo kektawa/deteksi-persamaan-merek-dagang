@@ -74,7 +74,3 @@ Berkas data mentah hasil *scraping* dan model semantik tidak disertakan dalam re
 ## Catatan
 
 Sistem ini bersifat **pendukung keputusan**; hasil yang ditampilkan merupakan indikasi awal untuk membantu pemeriksaan, bukan penetapan hukum atas ada atau tidaknya persamaan pada pokoknya.
-
-## Penulis
-
-Skripsi Program Studi [isi program studi] — [isi nama universitas], [isi tahun].
